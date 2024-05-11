@@ -5,6 +5,7 @@ This repo serves as an experimental exploration into the application of the llam
 
 ## Models utilized:
 CrewAI: An open-source AI model designed for collaborative tasks, CrewAI facilitates seamless coordination between multiple agents, enabling enhanced decision-making in marketing campaigns.
+
 llama3: The llama3 model, integrated into Groq, serves as a powerful tool for accelerated inferencing.
 
 ## Inspiration
