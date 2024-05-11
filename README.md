@@ -1,4 +1,4 @@
-# Marketing-Campaign using AI agents
+# Marketing-Campaign using AI agents 📈
 
 ## Overview
 This repo serves as an experimental exploration into the application of the llama3 model for promotional marketing content use case. By leveraging the advanced capabilities of llama3 within the Groq framework and crewAI agents, the project aims to assess its effectiveness in generating and optimizing promotional content for marketing campaigns concerning customer traits.
