@@ -11,9 +11,6 @@ llama3: The llama3 model, integrated into Groq, serves as a powerful tool for ac
 ## Inspiration
 Inspired by the https://towardsdatascience.com/powerful-collaboration-of-ai-agents-with-crewai-17f84378430b article, I tried to look into the results provided by the llama3-8b model. Utilized Groq for fast inferencing purposes.
 
-## Challenge faced
-Model Crashing overcame it by setting up the max_iter parameter to limit 10. 
-
 ## Here are the few results
 
 ### Customer details: 
